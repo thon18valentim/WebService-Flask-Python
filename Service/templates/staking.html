@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staking</title>
+</head>
+<body>
+    {% for item in lista %}
+        <h4>{{item.id}} - {{item.user}}</h4>
+    {% endfor %}
+    <form action=" {{ url_for('staking') }} " method = "post">
+        <label for="nome">Id</label><br>
+        <input type="text" user="id" placeholder="Id"></br>
+        <label for="nome">Staking</label><br>
+        <input type="text" user="stake" placeholder="Staking"></br>
+        <button>Enviar</button>
+    </form>
+</body>
+</html>
