@@ -10,6 +10,8 @@ app.debug = True
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///site.db'
 db = SQLAlchemy(app)
 migrate = Migrate(app, db)
+def split(word):
+    return [char for char in word]
 
 class Validator(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -55,7 +57,8 @@ def staking():
         validators = Validator.query.all()
         return render_template("staking.html", lista=validators)
     else:
-        staking=request.form['stake']
+        id = request.form['id']
+        staking = request.form['stake']
 
         validator = Validator.query.filter_by(id=id).first()
         db.session.commit()
@@ -81,16 +84,39 @@ def validate():
 
     chosenOne = random.choices(validatorsId, weights=validatorsStakes, k=1)
 
+    inteiro = ""
+
+    for i in chosenOne:
+        inteiro+=str(i)
+
     for i in validators:
-        if i.id == chosenOne:
+        if i.id == int(inteiro):
             return f"<h4>{i.user} foi escolhido!</h4> </br>"
 
     return "Ué, ninguém foi escolhido!"
+
+
+@app.route('/delete', methods = ["GET", "POST"])
+def delete():
+    if request.method == "GET":
+        return render_template("delete.html")
+    else:
+        id=request.form['id']
+        objeto = Validator.query.get(id)
+        db.session.delete(objeto)
+        db.session.commit()
+        return redirect('/')
 
 
 @app.route('/<string:nome>')
 def error(nome):
     variavel = f'Pagina { nome } não existe'
     return render_template("error.html" , variavel_nome = variavel)
+
+@app.route('/list')
+def list():
+    if request.method == "GET":
+        validators = Validator.query.all()
+        return render_template("list.html", lista=validators)
 
 app.run(debug=True)

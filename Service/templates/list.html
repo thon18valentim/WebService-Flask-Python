@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista</title>
+
+</head>
+<body>
+    {% for item in lista %}
+        <h4>{{item.id}} - {{item.user}} - {{ item.stake }}</h4>
+    {% endfor %}
+</body>
+</html>
