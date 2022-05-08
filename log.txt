@@ -1,0 +1,200 @@
+Transacao gerada: De: 0x2477 | Para: 0xdd4 | Hash: 
+Transacao gerada: De: 0x1f69 | Para: 0x11c9 | Hash: 
+Transacao gerada: De: 0x849 | Para: 0x526 | Hash: 
+Transacao gerada: De: 0xae2 | Para: 0x20f6 | Hash: 
+Transacao gerada: De: 0x2690 | Para: 0x20c4 | Hash: 
+Transacao gerada: De: 0x17ad | Para: 0x10fd | Hash: 
+Transacao gerada: De: 0x17f0 | Para: 0x202c | Hash: 
+Transacao gerada: De: 0x1bb9 | Para: 0x235d | Hash: 
+Transacao gerada: De: 0x1790 | Para: 0x22b4 | Hash: 
+Transacao gerada: De: 0x1c49 | Para: 0x2061 | Hash: 
+Transacao gerada: De: 0xcdf | Para: 0xc87 | Hash: 
+Transacao gerada: De: 0x1c4a | Para: 0xbf8 | Hash: 
+Transacao gerada: De: 0xec8 | Para: 0x1ac8 | Hash: 
+Transacao gerada: De: 0x16d9 | Para: 0x112b | Hash: 
+Transacao gerada: De: 0xb6b | Para: 0x1e72 | Hash: 
+Transacao gerada: De: 0xb32 | Para: 0x11b3 | Hash: 
+Transacao gerada: De: 0xfcc | Para: 0x12ab | Hash: 
+Transacao gerada: De: 0xca6 | Para: 0x8f1 | Hash: 
+Transacao gerada: De: 0xd16 | Para: 0x1d37 | Hash: 
+Transacao gerada: De: 0x1079 | Para: 0x17a0 | Hash: 
+Heitor foi escolhido
+Hash gerada: 433a4bc4279bd6f57e06f196732ccddedf329196f3e0a67c645533af34a63ba5
+[Nome : Bernardo, Nome : Othon, Nome : Heitor, Nome : othonvv, Nome : Fabricio, Nome : Jorge Jesus, Nome : Pedro, Nome : Gabriel] validadores listados
+[Nome : Bernardo, Nome : Othon, Nome : Heitor, Nome : othonvv, Nome : Fabricio, Nome : Jorge Jesus, Nome : Pedro, Nome : Gabriel] validadores listados
+[Nome : Bernardo, Nome : Othon, Nome : Heitor, Nome : othonvv, Nome : Fabricio, Nome : Jorge Jesus, Nome : Pedro, Nome : Gabriel] validadores listados
+[Nome : Bernardo, Nome : Othon, Nome : Heitor, Nome : othonvv, Nome : Fabricio, Nome : Jorge Jesus, Nome : Pedro, Nome : Gabriel] validadores listados
+Transacao gerada: De: 0xcb0 | Para: 0x26c1 | Hash: 
+Transacao gerada: De: 0x8b4 | Para: 0xea3 | Hash: 
+Transacao gerada: De: 0x6eb | Para: 0xbd3 | Hash: 
+Transacao gerada: De: 0x10d8 | Para: 0x1ce3 | Hash: 
+Transacao gerada: De: 0x1783 | Para: 0x23ab | Hash: 
+Transacao gerada: De: 0xf03 | Para: 0x11a4 | Hash: 
+Transacao gerada: De: 0x1177 | Para: 0xe85 | Hash: 
+Transacao gerada: De: 0x9a6 | Para: 0x691 | Hash: 
+Transacao gerada: De: 0x6df | Para: 0x864 | Hash: 
+Transacao gerada: De: 0x1e90 | Para: 0x1ec3 | Hash: 
+Transacao gerada: De: 0x1074 | Para: 0x25d7 | Hash: 
+Transacao gerada: De: 0x133f | Para: 0x1154 | Hash: 
+Transacao gerada: De: 0x17d3 | Para: 0x1e46 | Hash: 
+Transacao gerada: De: 0xe8d | Para: 0x1670 | Hash: 
+Transacao gerada: De: 0x1b26 | Para: 0x11ca | Hash: 
+Transacao gerada: De: 0x191a | Para: 0x1169 | Hash: 
+Transacao gerada: De: 0x146c | Para: 0x262b | Hash: 
+Transacao gerada: De: 0x23be | Para: 0x7d9 | Hash: 
+Transacao gerada: De: 0x2240 | Para: 0xb27 | Hash: 
+Transacao gerada: De: 0x1d45 | Para: 0x192a | Hash: 
+Transacao gerada: De: 0xf14 | Para: 0x26a1 | Hash: 
+Transacao gerada: De: 0x1bd5 | Para: 0x10e2 | Hash: 
+Transacao gerada: De: 0x2575 | Para: 0x1031 | Hash: 
+Transacao gerada: De: 0x1c87 | Para: 0x2305 | Hash: 
+Transacao gerada: De: 0x154b | Para: 0xba3 | Hash: 
+Transacao gerada: De: 0x453 | Para: 0x1061 | Hash: 
+Transacao gerada: De: 0x2399 | Para: 0xb1b | Hash: 
+Transacao gerada: De: 0x1cd5 | Para: 0x14fa | Hash: 
+Transacao gerada: De: 0x1a49 | Para: 0x1611 | Hash: 
+Transacao gerada: De: 0x124c | Para: 0xb5a | Hash: 
+Nome : lucas cadastrado com sucesso
+[Nome : Bernardo, Nome : Othon, Nome : Heitor, Nome : othonvv, Nome : Fabricio, Nome : Jorge Jesus, Nome : Pedro, Nome : Gabriel, Nome : lucas] validadores listados
+[Nome : Bernardo, Nome : Othon, Nome : Heitor, Nome : othonvv, Nome : Fabricio, Nome : Jorge Jesus, Nome : Pedro, Nome : Gabriel, Nome : lucas] validadores listados
+Staking gerado: 1111111111111111111111111111111111111
+lucas foi escolhido
+Hash gerada: 433a4bc4279bd6f57e06f196732ccddedf329196f3e0a67c645533af34a63ba5
+Transacao gerada: De: 0x1c9b | Para: 0x1276 | Hash: 
+Transacao gerada: De: 0xa63 | Para: 0xc36 | Hash: 
+Transacao gerada: De: 0x1e16 | Para: 0x85a | Hash: 
+Transacao gerada: De: 0x1573 | Para: 0x708 | Hash: 
+Transacao gerada: De: 0x2020 | Para: 0x1394 | Hash: 
+Transacao gerada: De: 0x710 | Para: 0x1bcd | Hash: 
+Transacao gerada: De: 0x16c9 | Para: 0x1e13 | Hash: 
+Transacao gerada: De: 0x183a | Para: 0xb98 | Hash: 
+Transacao gerada: De: 0x1bd8 | Para: 0x1433 | Hash: 
+Transacao gerada: De: 0x940 | Para: 0x23a0 | Hash: 
+Transacao gerada: De: 0x2639 | Para: 0x15d0 | Hash: 
+Transacao gerada: De: 0xca6 | Para: 0xcf0 | Hash: 
+Transacao gerada: De: 0x19b0 | Para: 0x1b30 | Hash: 
+Transacao gerada: De: 0x1229 | Para: 0x1eb6 | Hash: 
+Transacao gerada: De: 0x541 | Para: 0x168f | Hash: 
+Transacao gerada: De: 0x1083 | Para: 0xbbd | Hash: 
+Transacao gerada: De: 0x1bbc | Para: 0x1aa8 | Hash: 
+Transacao gerada: De: 0xe35 | Para: 0x424 | Hash: 
+Transacao gerada: De: 0xf21 | Para: 0x18d2 | Hash: 
+Transacao gerada: De: 0x1ce0 | Para: 0x82c | Hash: 
+Transacao gerada: De: 0x95b | Para: 0xc5d | Hash: 
+Transacao gerada: De: 0x1be2 | Para: 0x7a3 | Hash: 
+Transacao gerada: De: 0xf23 | Para: 0x15e8 | Hash: 
+Transacao gerada: De: 0x13a0 | Para: 0x11ac | Hash: 
+Transacao gerada: De: 0x16c4 | Para: 0xd52 | Hash: 
+Transacao gerada: De: 0x108a | Para: 0xbc1 | Hash: 
+Transacao gerada: De: 0x1d2b | Para: 0x1cc3 | Hash: 
+Transacao gerada: De: 0x54c | Para: 0x22a9 | Hash: 
+Transacao gerada: De: 0xbe5 | Para: 0x22a6 | Hash: 
+Transacao gerada: De: 0x2287 | Para: 0xbbb | Hash: 
+lucas foi escolhido
+Hash gerada: 433a4bc4279bd6f57e06f196732ccddedf329196f3e0a67c645533af34a63ba5
+Transacao gerada: De: 0x1883 | Para: 0x11ff | Hash: 
+Transacao gerada: De: 0x2327 | Para: 0x949 | Hash: 
+Transacao gerada: De: 0x19a0 | Para: 0xdfb | Hash: 
+Transacao gerada: De: 0x1be3 | Para: 0xc73 | Hash: 
+Transacao gerada: De: 0x76e | Para: 0xec3 | Hash: 
+Transacao gerada: De: 0x1ffe | Para: 0x208e | Hash: 
+Transacao gerada: De: 0x260a | Para: 0x178a | Hash: 
+Transacao gerada: De: 0x1839 | Para: 0x869 | Hash: 
+Transacao gerada: De: 0x1b8e | Para: 0xdf4 | Hash: 
+Transacao gerada: De: 0x10da | Para: 0x947 | Hash: 
+Transacao gerada: De: 0x5f4 | Para: 0x204a | Hash: 
+Transacao gerada: De: 0x23e2 | Para: 0xf4f | Hash: 
+Transacao gerada: De: 0xf07 | Para: 0xc9c | Hash: 
+Transacao gerada: De: 0x1008 | Para: 0x110f | Hash: 
+Transacao gerada: De: 0x19dc | Para: 0x557 | Hash: 
+Transacao gerada: De: 0xd5f | Para: 0x200a | Hash: 
+Transacao gerada: De: 0x1bd0 | Para: 0x1938 | Hash: 
+Transacao gerada: De: 0xc99 | Para: 0x22d2 | Hash: 
+Transacao gerada: De: 0x1312 | Para: 0xf4e | Hash: 
+Transacao gerada: De: 0x20fd | Para: 0x241c | Hash: 
+Transacao gerada: De: 0xdc9 | Para: 0x15cf | Hash: 
+Transacao gerada: De: 0x223d | Para: 0x265a | Hash: 
+Transacao gerada: De: 0x1164 | Para: 0x19e9 | Hash: 
+Transacao gerada: De: 0x1d6e | Para: 0x2628 | Hash: 
+Transacao gerada: De: 0x2582 | Para: 0x1685 | Hash: 
+Transacao gerada: De: 0x2543 | Para: 0xe09 | Hash: 
+Transacao gerada: De: 0x24a9 | Para: 0x1fca | Hash: 
+Transacao gerada: De: 0x637 | Para: 0x116c | Hash: 
+Transacao gerada: De: 0x18fc | Para: 0x815 | Hash: 
+Transacao gerada: De: 0x1551 | Para: 0x257c | Hash: 
+Transacao gerada: De: 0x1dcf | Para: 0x1177 | Hash: 
+Transacao gerada: De: 0xf02 | Para: 0x2362 | Hash: 
+Transacao gerada: De: 0xbe5 | Para: 0x6b8 | Hash: 
+Transacao gerada: De: 0x1850 | Para: 0x734 | Hash: 
+Transacao gerada: De: 0x187c | Para: 0xfcb | Hash: 
+Transacao gerada: De: 0x181a | Para: 0xd65 | Hash: 
+Transacao gerada: De: 0x15fe | Para: 0x1f05 | Hash: 
+Transacao gerada: De: 0xde7 | Para: 0x145c | Hash: 
+Transacao gerada: De: 0x23c6 | Para: 0x1afb | Hash: 
+Transacao gerada: De: 0x26d5 | Para: 0x997 | Hash: 
+Transacao gerada: De: 0x4c7 | Para: 0x10aa | Hash: 
+Transacao gerada: De: 0x1dab | Para: 0x108d | Hash: 
+Transacao gerada: De: 0x12d7 | Para: 0x1006 | Hash: 
+Transacao gerada: De: 0xc07 | Para: 0x1703 | Hash: 
+Transacao gerada: De: 0x17f3 | Para: 0x194b | Hash: 
+Transacao gerada: De: 0x1cac | Para: 0x10a7 | Hash: 
+Transacao gerada: De: 0xf7b | Para: 0x1c33 | Hash: 
+Transacao gerada: De: 0x88e | Para: 0x79c | Hash: 
+Transacao gerada: De: 0xeeb | Para: 0x2249 | Hash: 
+Transacao gerada: De: 0x3ff | Para: 0x1a77 | Hash: 
+Transacao gerada: De: 0xe14 | Para: 0x122d | Hash: 
+Transacao gerada: De: 0x1719 | Para: 0x20bb | Hash: 
+Transacao gerada: De: 0x1e82 | Para: 0xf13 | Hash: 
+Transacao gerada: De: 0x1ca8 | Para: 0x247f | Hash: 
+Transacao gerada: De: 0xb62 | Para: 0x1824 | Hash: 
+Transacao gerada: De: 0x9f9 | Para: 0x1dbe | Hash: 
+Transacao gerada: De: 0x3fa | Para: 0x15ca | Hash: 
+Transacao gerada: De: 0x894 | Para: 0x149d | Hash: 
+Transacao gerada: De: 0x2545 | Para: 0xce5 | Hash: 
+Transacao gerada: De: 0x150b | Para: 0x21aa | Hash: 
+Transacao gerada: De: 0x1c1b | Para: 0x1564 | Hash: 
+Transacao gerada: De: 0x17bb | Para: 0x539 | Hash: 
+Transacao gerada: De: 0x187e | Para: 0x715 | Hash: 
+Transacao gerada: De: 0x1cc2 | Para: 0x236e | Hash: 
+Transacao gerada: De: 0xc6f | Para: 0x2282 | Hash: 
+Transacao gerada: De: 0x2497 | Para: 0x116a | Hash: 
+Transacao gerada: De: 0x887 | Para: 0x13fa | Hash: 
+Transacao gerada: De: 0x40a | Para: 0x735 | Hash: 
+Transacao gerada: De: 0x1fb3 | Para: 0xa31 | Hash: 
+Transacao gerada: De: 0x691 | Para: 0x25e0 | Hash: 
+lucas foi escolhido
+Transacao gerada: De: 0x1ad1 | Para: 0x8f0 | Hash: 
+Transacao gerada: De: 0xcdc | Para: 0x1750 | Hash: 
+Transacao gerada: De: 0xf68 | Para: 0x2689 | Hash: 
+Transacao gerada: De: 0x1735 | Para: 0x157e | Hash: 
+Transacao gerada: De: 0x1c1a | Para: 0xef3 | Hash: 
+Transacao gerada: De: 0xd89 | Para: 0x11fd | Hash: 
+Transacao gerada: De: 0x1a1f | Para: 0x15a8 | Hash: 
+Transacao gerada: De: 0x56d | Para: 0x2431 | Hash: 
+Transacao gerada: De: 0xca8 | Para: 0x1401 | Hash: 
+Transacao gerada: De: 0x1118 | Para: 0xb91 | Hash: 
+lucas foi escolhido
+Transacao gerada: De: 0x264c | Para: 0x18b9 | Hash: 
+Transacao gerada: De: 0xede | Para: 0x24e7 | Hash: 
+Transacao gerada: De: 0x460 | Para: 0xb2b | Hash: 
+Transacao gerada: De: 0x1bbf | Para: 0x596 | Hash: 
+Transacao gerada: De: 0x414 | Para: 0x1832 | Hash: 
+Transacao gerada: De: 0x26fe | Para: 0x159f | Hash: 
+Transacao gerada: De: 0x1d70 | Para: 0x1d63 | Hash: 
+Transacao gerada: De: 0x2435 | Para: 0x10b9 | Hash: 
+Transacao gerada: De: 0x405 | Para: 0xf25 | Hash: 
+Transacao gerada: De: 0xde2 | Para: 0x1019 | Hash: 
+Transacao gerada: De: 0x1b94 | Para: 0xff5 | Hash: 
+Transacao gerada: De: 0x1599 | Para: 0x21f7 | Hash: 
+Transacao gerada: De: 0x1a7b | Para: 0x507 | Hash: 
+Transacao gerada: De: 0xb7c | Para: 0x454 | Hash: 
+Transacao gerada: De: 0x49f | Para: 0x930 | Hash: 
+Transacao gerada: De: 0xa3c | Para: 0x22ef | Hash: 
+Transacao gerada: De: 0xfdf | Para: 0x1776 | Hash: 
+Transacao gerada: De: 0xc67 | Para: 0x167b | Hash: 
+Transacao gerada: De: 0x1b4f | Para: 0x1fa8 | Hash: 
+Transacao gerada: De: 0xf6c | Para: 0xd50 | Hash: 
+lucas foi escolhido
+Hash gerada: ff5a1ae012afa5d4c889c50ad427aaf545d31a4fac04ffc1c4d03d403ba4250a
+lucas foi escolhido
+Hash gerada: 35135aaa6cc23891b40cb3f378c53a17a1127210ce60e125ccf03efcfdaec458
